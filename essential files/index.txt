@@ -1,0 +1,341 @@
+Organica - Quality organic fruit & vegetables.
+
+
+
+#---------- HEADER ----------#
+
+Free shipping for all order of $105
+
+Organica
+
+aria-label = Open Menu
+<ion-icon name="menu-outline"></ion-icon>
+
+aria-label = Close Menu
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Shop
+Blog
+Products
+Contact
+
+aria-label = Toggle search
+
+<ion-icon name="search-outline" class="search-icon"></ion-icon>
+<ion-icon name="close-outline" class="close-icon"></ion-icon>
+
+placeholder = Search here
+
+aria-label = Submit search
+<ion-icon name="search-outline"></ion-icon>
+
+aria-label = Open whishlist
+<ion-icon name="heart-outline"></ion-icon>
+03
+
+aria-label = Open shopping cart
+<ion-icon name="basket-outline"></ion-icon>
+02
+
+
+
+#---------- ASIDE ----------#
+
+aria-label = Close whishlist
+<ion-icon name="close-outline"></ion-icon>
+
+alt = Bright Side Vegetarian
+
+Bright Side Vegetarian
+$20.15x1
+
+aria-label = Remove item
+<ion-icon name="close-outline"></ion-icon>
+
+Eco Vegetable
+$13.25x2
+
+House of Veggies
+$20.15x1
+
+Subtotal:
+$215.14
+
+View Whishlist
+
+aria-label = Close cart
+
+View Cart
+
+
+
+
+#---------- HERO ----------#
+
+25% off all products.
+
+Qualityful organic
+fruit & vegetables.
+
+It has survived not only five centuries also there leaped.
+
+Shop Now
+<ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
+
+alt = Vegetables
+
+
+
+#---------- SERVICE ----------#
+
+alt = Truck icon
+Free Shipping
+
+alt = Payment card icon
+Safe Payment
+
+alt = Helpline icon
+24/7 Support
+
+
+
+#---------- OFFERS ----------#
+
+alt = Fresh vegetables package
+
+Up To 25% Off
+
+Fresh vegetables package.
+
+Shop Now
+
+alt = Healthy & fresh beef
+
+Healthy & fresh beef.
+
+
+
+#---------- PRODUCT ----------#
+
+-- Organic Products --
+
+All Organic Products
+
+Fresh Vegetables
+Fish & Meat
+Healthy Fruit
+Dairy Products
+
+alt = Fresh Orangey
+
+aria-label = Add to Whishlist
+<ion-icon name="heart-outline"></ion-icon>
+Add to Whishlist
+
+aria-label = Quick View
+<ion-icon name="eye-outline"></ion-icon>
+Quick View
+
+<ion-icon name="star"></ion-icon>
+    
+Fresh Orangey
+$75.00
+$85.00
+Add to Cart
+
+key Lime
+
+Fresh Watermelon
+
+Visual matches
+
+Pomagranate Fruit
+
+Red onion
+
+Lens Results Broccoli
+
+Lens Results Spinach
+
+
+
+#---------- CTA ----------#
+
+Summer Offer
+
+Up To 50% Off All Product.
+
+It has survived not only five centuries also leaped.
+
+Shop Now
+<ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- TOP SELLER ----------#
+
+-- Organic Food --
+
+Trendy Products
+
+alt = Fresh Orangey
+
+aria-label = Add to Whishlist
+<ion-icon name="heart-outline"></ion-icon>
+Add to Whishlist
+
+aria-label = Quick View
+<ion-icon name="eye-outline"></ion-icon>
+Quick View
+
+<ion-icon name="star"></ion-icon>
+
+Fresh Orangey
+$75.00
+$85.00
+
+Add to Cart
+
+key Lime
+
+Fresh Watermelon
+
+Stobery
+
+Pomagranate Fruit
+
+Lens Results Broccoli
+
+Lens Results Spinach
+
+Lorigun Artificial
+
+Leaf lettuce
+
+
+
+#---------- PARTNER ----------#
+
+-- Organic Food --
+
+Trusted Partners
+
+alt = Partner logo
+
+
+
+#---------- TESTIMONIALS ----------#
+
+-- Some Testimonial --
+
+Feedback From Happy Clients
+
+alt = Willow Peralta
+
+<ion-icon name="star"></ion-icon>
+
+It was popularised in the 1960s
+with the release of Letraset sheets
+containing Lorem passages and more recently with desktop publishing software like including.
+
+Willow Peralta
+Web Developer
+
+Pamelia Hamrick
+
+Novella Gerber
+
+
+
+#---------- BLOG ----------#
+
+-- News And Blog --
+
+Bright Side Vegetarianism
+
+alt = We automatically search for andapply coupons when.
+
+<ion-icon name="calendar-clear-outline"></ion-icon>
+13 April, 2022
+
+<ion-icon name="heart-outline"></ion-icon>
+58 Million
+
+We automatically search for andapply coupons when.
+
+Read More 
+<ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
+
+
+How to get more traffic in your website of ecommerce.
+
+25 Rules and regulation to be successful in your business.
+
+
+
+#---------- NEWSLETTER ----------#
+
+-- Subscribe Newsletter --
+
+Sign Up To Newsletter & Get 20% Off.
+
+placeholder = Enter your email
+
+Sign Up
+<ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- FOOTER ----------#
+
+Organica
+
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem passages and more recently with desktop publishing software like including.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-skype"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+ 
+Company
+
+About Us
+Shop
+Blog
+Product
+Contact Us
+
+Contact
+
+<ion-icon name="location-outline"></ion-icon>
+7 Green Lake Street Crawfordsville, IN 47933
+
+<ion-icon name="call-outline"></ion-icon>
++1 800 123 456 789
+
+<ion-icon name="mail-outline"></ion-icon>
+organica@help.com
+
+Newsletter
+
+You will be notified when somthing new will be appear.
+
+Email Address *
+
+aria-labe = Submit
+<ion-icon name="mail-outline"></ion-icon>
+
+&copy; 2022 codewithsadee. All Rights Reserved.
+
+Term and Service
+Privacy Policy
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = Back to Top
+
+<ion-icon name="arrow-up-outline"></ion-icon>
