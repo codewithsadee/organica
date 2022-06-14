@@ -48,6 +48,9 @@
   --black: hsl(0, 0%, 0%);
   --onyx: hsl(0, 0%, 27%);
   --jet: hsl(0, 0%, 20%);
+  --russian-violet_65: hsla(245, 97%, 13%, 0.65);
+  --rhythm: hsl(220, 17%, 49%);
+  --spanish-gray: hsl(156, 3%, 61%);
 
   /**
    * typography
@@ -130,6 +133,7 @@ a,
 img,
 span,
 input,
+label,
 button,
 ion-icon { display: block; }
 
@@ -185,7 +189,7 @@ body {
   align-items: center;
   gap: 8px;
   width: max-content;
-  font-size: var(--fs-, var(--fs-7));
+  font-size: var(--fs, var(--fs-7));
   font-weight: var(--fw, var(--fw-500));
   padding: var(--padding, 15px 20px);
   border-radius: 50px;
@@ -247,7 +251,7 @@ body {
 .rating-wrapper {
   color: var(--yellow-orange);
   display: flex;
-  justify-content: var(--justify-conte, center);
+  justify-content: var(--justify-content, center);
   gap: 2px;
   font-size: 1.4rem;
 }
@@ -803,6 +807,53 @@ body {
 
 
 /*-----------------------------------*\
+  #BREADCUMB
+\*-----------------------------------*/
+
+.breadcumb-wrapper {
+  background-image: url(../images/breadcumb-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: var(--russian-violet_65);
+  background-blend-mode: darken;
+  text-align: center;
+  color: var(--white);
+  min-height: 250px;
+  display: grid;
+  place-content: center;
+  gap: 20px;
+}
+
+.page-title {
+  --fs-1: 3.5rem;
+  font-size: var(--fs-1);
+}
+
+.breadcumb-list {
+  display: flex;
+  justify-content: center;
+}
+
+.breadcumb-item {
+  font-size: var(--fs-3);
+  display: flex;
+}
+
+.breadcumb-item:not(:last-child)::after {
+  content: "/";
+  margin-inline: 10px;
+}
+
+.breadcumb-link { transition: var(--transition-2); }
+
+.breadcumb-link:is(:hover, :focus) { color: var(--emerald); }
+
+
+
+
+
+/*-----------------------------------*\
   #MEDIA QUERIES
 \*-----------------------------------*/
 
@@ -919,6 +970,16 @@ body {
    */
 
   .footer-top .container { grid-template-columns: 1fr 1fr; }
+
+
+
+  /**
+   * BREADCUMB
+   */
+
+  .breadcumb-wrapper { min-height: 400px; }
+
+  .page-title { --fs-1: 5rem; }
 
 }
 

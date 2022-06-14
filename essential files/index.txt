@@ -339,3 +339,57 @@ Privacy Policy
 aria-label = Back to Top
 
 <ion-icon name="arrow-up-outline"></ion-icon>
+
+
+
+
+
+#========== PRODUCT DETAILS PAGE ==========#
+
+Organica - Non-starchy vegetables.
+
+Product Details
+
+Home
+Product
+
+alt = Non-starchy vegetables.
+
+Non-starchy vegetables.
+
+350.00 USD
+
+<ion-icon name="star"></ion-icon>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis ultrices lectus lobortis, dolor et tempus porta, leo mi efficitur ante, in varius felis sem ut mauris. Proin volutpat lorem inorci sed vestibulum tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit sem porta dolor congue sagittis Lorem ipsum dolor sit amet consectetur.
+
+Weight :
+4L
+2L
+500ML
+200ML
+
+Add To Cart
+
+Descripton :
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam.Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam
+
+Additional Information :
+
+Ratings
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star-half"></ion-icon>
+<ion-icon name="star-outline"></ion-icon>
+
+Material Type
+Pomagranate Fruit
+
+Weight
+250 gm
+
+Seller
+Organica
+
+Size
+6KG
